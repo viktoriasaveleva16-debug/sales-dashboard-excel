@@ -33,8 +33,9 @@ Excel, СУММЕСЛИМН, динамические массивы,
 ## Данные
 В проекте используются демонстрационные данные.
 ## Вид дашборда
-<img width="1418" height="656" alt="image" src="https://github.com/user-attachments/assets/26951479-4877-4975-a3c2-61958528420d" />
-<img width="1508" height="503" alt="image" src="https://github.com/user-attachments/assets/70eae580-490c-436e-b365-ad6599d0bc95" />
+<img width="1341" height="655" alt="image" src="https://github.com/user-attachments/assets/90951ae6-9586-4339-a76b-67c27c94ef74" />
+<img width="1512" height="496" alt="image" src="https://github.com/user-attachments/assets/696c57c8-dc04-40d1-b909-6dfbc9d34d4f" />
+
 
 
 
